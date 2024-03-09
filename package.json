@@ -29,6 +29,7 @@
     "@pincince64883736/tea": "^0.3.0",
     "@rinaudokasia/checker":"^1.0.0",
     "@rinaudokasia/manage": "^0.0.3",
+    "@ibomorrissey/dashboard":"^0.1.0",
     "babel-polyfill": "^6.26.0",
     "core-js": "^3.35.1",
     "eventemitter2": "^6.4.5",
